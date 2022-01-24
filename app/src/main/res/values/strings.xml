@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TUF</string>
+   <string name="my_app_name">TUF2</string>
+   <string name="proceed">Proceed with your</string>
+   <string name="login">Login</string>
+   <string name="back">back</string>
+   <string name="uname">Username</string>
+   <string name="password">Password</string>
+   <string name="forpassword">Forgot Password?</string>
+    <string name="title_activity_mainpage">Mainpage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="DHR">Durar HR</string>
+    <string name="slogan">The Complete HR Solutions</string>
+
+
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+</resources>
